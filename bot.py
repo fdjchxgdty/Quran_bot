@@ -49,4 +49,4 @@ async def join(interaction: discord.Interaction, الروم: discord.VoiceChanne
             await interaction.response.send_message("يجب ان يكون في الروم اعضاء كي اتمكن من دخوله", ephemeral=True)
     except:
         await interaction.response.send_message("اسف لكن يوجد خطأ غريب لا يمكنني دخول الروم", ephemeral=True)  
-client.run("your_bot_token")
+client.run("MTI4MDIwMTk4NDc2MjQ0OTk1MQ.G1p8Fb.yFEAeeYC_LDpGtuubtWVjjjIWnoI0--1_32AUw")
